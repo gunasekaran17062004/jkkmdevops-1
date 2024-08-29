@@ -8,6 +8,24 @@ val = val + a[i];
 return val 
 
 }
+public int add(int [] a ) {
+
+int val = 0 ; 
+for(int i ; i < a.size() ; i++){
+val = val + a[i];
+}
+
+return val 
+
+}
+
+public int sub(int  a , int b  ) {
+
+return a-b ; 
+
+}
+
+
 
 public int sub(int  a , int b  ) {
 
