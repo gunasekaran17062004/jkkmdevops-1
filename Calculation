@@ -8,3 +8,10 @@ val = val + a[i];
 return val 
 
 }
+
+public int sub(int  a , int b  ) {
+
+return a-b ; 
+
+}
+
